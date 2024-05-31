@@ -1,2 +1,3 @@
-# sdetermine.github.io
-sDETERMINE project webpage
+# sDetermine
+
+Project proposal domain!
