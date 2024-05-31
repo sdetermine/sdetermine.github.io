@@ -1,3 +1,3 @@
-# sDetermine
+# sDETERMINE
 
 Project proposal domain!
